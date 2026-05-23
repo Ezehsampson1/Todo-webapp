@@ -8,12 +8,13 @@ A simple Todo List web Application built with Python and Flask, containerized wi
 - Writing clear documentation [Readme.md]
 
  ## Tech Stack
-
+```
 | Tool           | Purpose                      | Version  |
 |---------------|------------------------------|----------|
 | Python        | Application language         | 3.12     |
 | Flask         | Lightweight web framework    | 3.0.3    |
 | Docker        | Containerization             | 24+      |
+```
 
 
 ## Project Structure
