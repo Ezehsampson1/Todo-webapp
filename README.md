@@ -20,13 +20,16 @@ A simple Todo List web Application built with Python and Flask, containerized wi
 
 Todo-webapp/
 |---app/
-|    |---app.py
-|    |---requirements.txt
-|    |---templates/
-|          |---index.html
-|----Dockerfile
-|----.dockerignore
-|----README.md
+|   |---app.py
+|   |---requirements.txt
+|   |---templates/
+|       |---index.html
+|---Dockerfile
+|---.dockerignore
+|---README.md
+
+
+
 
 ## Prerequisites
 
