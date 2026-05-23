@@ -17,8 +17,8 @@ A simple Todo List web Application built with Python and Flask, containerized wi
 
 
 ## Project Structure
-
-Todo-webapp/
+```
+ Todo-webapp/
 |---app/
 |   |---app.py
 |   |---requirements.txt
@@ -27,7 +27,7 @@ Todo-webapp/
 |---Dockerfile
 |---.dockerignore
 |---README.md
-
+```
 
 
 
@@ -40,7 +40,7 @@ Todo-webapp/
 ## Getting Started
 
 ### 1. Clone the repository 
-git clone https://github.com/Ezehsampson1/Todo-webapp.app
+git clone https://github.com/Ezehsampson1/Todo-webapp
 
 cd Todo-webapp
 
